@@ -6,8 +6,12 @@ with open('dataset.pkl', 'rb') as f:
     train_set, valid_set, *test_set = pickle.load(f)
     # train_set, valid_set, test_set = pickle.load(f)
 
-# print(data)
+<<<<<<< HEAD
  # t1 +1 
+=======
+# print(data) ###
+
+>>>>>>> t
 
 
 
