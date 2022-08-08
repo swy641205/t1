@@ -11,7 +11,7 @@ with open('dataset.pkl', 'rb') as f:
 =======
 # print(data) ###
 
->>>>>>> t
+>>>>>>> t  
 
 
 
