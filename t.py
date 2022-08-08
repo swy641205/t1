@@ -6,14 +6,7 @@ with open('dataset.pkl', 'rb') as f:
     train_set, valid_set, *test_set = pickle.load(f)
     # train_set, valid_set, test_set = pickle.load(f)
 
-<<<<<<< HEAD
- # t1 +1 
-=======
-# print(data) ###
-
->>>>>>> t
-
-
-
 plt.imshow(train_set[0].reshape((28, 28)), cmap=cm.Greys_r)
 plt.show()
+
+#bp.t
