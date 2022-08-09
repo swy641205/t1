@@ -8,3 +8,5 @@ with open('dataset.pkl', 'rb') as f:
 
 plt.imshow(train_set[0].reshape((28, 28)), cmap=cm.Greys_r)
 plt.show()
+
+#1
